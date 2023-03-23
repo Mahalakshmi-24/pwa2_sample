@@ -1,0 +1,47 @@
+
+main {
+  display:flex;
+  justify-content: center
+}
+
+
+/***BASIC STYLES ***/
+body {
+  background-color: RGB(22, 44, 58);
+  margin: 0px;
+  text-align: center;
+}
+.image {
+height: 15%;
+}
+.image-container {
+  margin-top: 70px;
+}
+.content-container {
+  color: white;
+    width: 60%;
+    text-align: center;
+    height: 350px;
+    margin-top: 45px;
+    font-family: 'Libre Baskerville', serif;
+}
+.content-container h1{
+  margin-top: 50px;
+    font-size: 45px;
+}
+.content-container p {
+  font-size: 34px;
+}
+.content-container a{
+  text-decoration: none;
+  color: white;
+}
+.btn {
+  background-color: chocolate;
+  border-radius: 3px;
+  padding: 5px;
+  text-decoration: none;
+}
+.image1 {
+  height: 80%;
+}
