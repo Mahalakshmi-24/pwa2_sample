@@ -1,0 +1,17 @@
+{
+  "lang": "en-us",
+  "name": "Sample Progressive Web App",
+  "short_name": "PWA",
+  "description": "Tring to do basic progressive web app",
+  "start_url": "/",
+  "background_color": "#2f3d58",
+  "theme_color": "#2f3d58",
+  "orientation": "any",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "./assets/images/Pwa_Logo.svg",
+      "sizes": "512x512"
+    }
+  ]
+}
